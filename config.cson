@@ -1,0 +1,51 @@
+"*":
+  "atom-beautify":
+    general:
+      _analyticsUserId: "55c113ac-16f9-49a0-afd8-6423dc27c604"
+  "autocomplete-python":
+    useKite: false
+  "clang-format":
+    formatCOnSave: true
+  core:
+    disabledPackages: [
+      "autocomplete-elixir"
+      "xatom-debug"
+      "xatom-debug-chrome"
+      "xatom-debug-nodejs"
+      "language-elixir"
+    ]
+    ignoredNames: [
+      ".git"
+      ".hg"
+      ".svn"
+      ".DS_Store"
+      "._*"
+      "Thumbs.db"
+      "desktop.ini"
+      "node_modules"
+    ]
+    telemetryConsent: "limited"
+    themes: [
+      "one-dark-ui"
+      "chester-atom-syntax"
+    ]
+  editor:
+    fontFamily: "FiraCode-Light"
+    fontSize: 16
+  elmjutsu:
+    cacheDirectory: "/var/folders/91/nlyj_hpx551907p9gjn1r6y946pgt5/T/elmjutsu2554jlFacfCnliMi"
+  "exception-reporting":
+    userId: "92b52e0d-eac6-4961-96e7-426c7c4eabda"
+  "language-elm":
+    autocompleteEnabled: false
+    elmOraclePath: "/Users/mary/.nvm/versions/node/v8.4.0/bin/elm-oracle"
+  "linter-ui-default": {}
+  "vim-mode-plus": {}
+  welcome:
+    showOnStartup: false
+  zentabs:
+    maximumOpenedTabs: 6
+    neverCloseUnsaved: true
+".elm.source":
+  editor:
+    showIndentGuide: true
